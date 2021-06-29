@@ -1,0 +1,2 @@
+class Happlication < ApplicationRecord
+end
